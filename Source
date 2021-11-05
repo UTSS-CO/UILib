@@ -93,9 +93,9 @@ local themeStyles = {
     },
     Midnight = {
         SchemeColor = Color3.fromRGB(255, 255, 158),
-        Background = Color3.fromRGB(44, 62, 82),
-        Header = Color3.fromRGB(255, 255, 0),
-        TextColor = Color3.fromRGB(255, 255, 80),
+        Background = Color3.fromRGB(1, 1, 1),
+        Header = Color3.fromRGB(255, 255, 120),
+        TextColor = Color3.fromRGB(255, 255, 0),
         ElementColor = Color3.fromRGB(52, 74, 95)
     },
     Sentinel = {
